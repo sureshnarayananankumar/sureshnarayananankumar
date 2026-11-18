@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="400" viewBox="0 0 900 400" role="img" aria-label="Animated mission control: skills radar and what Suresh is building, shipping, exploring and open to now">
+<style>text{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif} .bl{font-size:11px;font-weight:700} .lb{font-size:11px;font-weight:800;letter-spacing:.12em} .tx{fill:#E6EDF3;font-size:14.5px;font-weight:600} .st{fill:#8B949E;font-size:11px;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace} .h{fill:#F0F6FC;font-size:18px;font-weight:800} .k{fill:#8B949E;font-size:12px;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}</style>
+<defs><radialGradient id="rbg"><stop offset="0" stop-color="#3FB950" stop-opacity=".10"/><stop offset="1" stop-color="#3FB950" stop-opacity="0"/></radialGradient>
+<linearGradient id="sw" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3FB950" stop-opacity="0"/><stop offset="1" stop-color="#3FB950" stop-opacity=".45"/></linearGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#161B22"/></pattern></defs>
+<rect width="900" height="400" rx="16" fill="#0D1117"/><rect width="900" height="400" rx="16" fill="url(#grid)"/><rect x=".5" y=".5" width="899" height="399" rx="16" fill="none" stroke="#30363D"/>
+<text x="28" y="40" class="h">🛰️ Mission control</text>
+<circle cx="750" cy="35" r="5" fill="#3FB950"><animate attributeName="opacity" values="1;.2;1" dur="1s" repeatCount="indefinite"/></circle><text x="762" y="39" class="k">ALL SYSTEMS GO</text>
+<circle cx="190" cy="215" r="140" fill="url(#rbg)" stroke="#3FB950" stroke-opacity=".4"/><circle cx="190" cy="215" r="46.2" fill="none" stroke="#3FB950" stroke-opacity=".18"/><circle cx="190" cy="215" r="92.4" fill="none" stroke="#3FB950" stroke-opacity=".18"/><circle cx="190" cy="215" r="140" fill="none" stroke="#3FB950" stroke-opacity=".18"/><line x1="50" y1="215" x2="330" y2="215" stroke="#3FB950" stroke-opacity=".15"/><line x1="190" y1="75" x2="190" y2="355" stroke="#3FB950" stroke-opacity=".15"/><g><animateTransform attributeName="transform" type="rotate" from="0 190 215" to="360 190 215" dur="6.0s" repeatCount="indefinite"/>
+<path d="M190,215 L100.0,107.8 A140,140 0 0,1 190.0,75.0 Z" fill="url(#sw)"/><line x1="190" y1="215" x2="190" y2="75" stroke="#3FB950" stroke-width="2"/></g><g opacity=".45"><animate attributeName="opacity" values=".45;.45;1;.45" keyTimes="0;0.083;0.103;1" dur="6.0s" repeatCount="indefinite"/>
+<circle cx="228.5" cy="148.3" r="5" fill="#A371F7"/><circle cx="228.5" cy="148.3" r="5" fill="none" stroke="#A371F7"><animate attributeName="r" values="5;14;5" dur="6.0s" begin="0.50s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="1;0;0" dur="6.0s" begin="0.50s" repeatCount="indefinite"/></circle>
+<text x="237.5" y="152.3" class="bl" fill="#A371F7">LangGraph</text></g><g opacity=".45"><animate attributeName="opacity" values=".45;.45;1;.45" keyTimes="0;0.222;0.242;1" dur="6.0s" repeatCount="indefinite"/>
+<circle cx="300.3" cy="195.6" r="5" fill="#A371F7"/><circle cx="300.3" cy="195.6" r="5" fill="none" stroke="#A371F7"><animate attributeName="r" values="5;14;5" dur="6.0s" begin="1.33s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="1;0;0" dur="6.0s" begin="1.33s" repeatCount="indefinite"/></circle>
+<text x="309.3" y="199.6" class="bl" fill="#A371F7">RAG</text></g><g opacity=".45"><animate attributeName="opacity" values=".45;.45;1;.45" keyTimes="0;0.389;0.409;1" dur="6.0s" repeatCount="indefinite"/>
+<circle cx="230.5" cy="263.3" r="5" fill="#DD0031"/><circle cx="230.5" cy="263.3" r="5" fill="none" stroke="#DD0031"><animate attributeName="r" values="5;14;5" dur="6.0s" begin="2.33s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="1;0;0" dur="6.0s" begin="2.33s" repeatCount="indefinite"/></circle>
+<text x="239.5" y="267.3" class="bl" fill="#DD0031">Angular</text></g><g opacity=".45"><animate attributeName="opacity" values=".45;.45;1;.45" keyTimes="0;0.528;0.548;1" dur="6.0s" repeatCount="indefinite"/>
+<circle cx="171.8" cy="318.4" r="5" fill="#61DAFB"/><circle cx="171.8" cy="318.4" r="5" fill="none" stroke="#61DAFB"><animate attributeName="r" values="5;14;5" dur="6.0s" begin="3.17s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="1;0;0" dur="6.0s" begin="3.17s" repeatCount="indefinite"/></circle>
+<text x="180.8" y="322.4" class="bl" fill="#61DAFB">React</text></g><g opacity=".45"><animate attributeName="opacity" values=".45;.45;1;.45" keyTimes="0;0.653;0.673;1" dur="6.0s" repeatCount="indefinite"/>
+<circle cx="121.2" cy="263.2" r="5" fill="#6DB33F"/><circle cx="121.2" cy="263.2" r="5" fill="none" stroke="#6DB33F"><animate attributeName="r" values="5;14;5" dur="6.0s" begin="3.92s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="1;0;0" dur="6.0s" begin="3.92s" repeatCount="indefinite"/></circle>
+<text x="130.2" y="267.2" class="bl" fill="#6DB33F">Spring Boot</text></g><g opacity=".45"><animate attributeName="opacity" values=".45;.45;1;.45" keyTimes="0;0.792;0.812;1" dur="6.0s" repeatCount="indefinite"/>
+<circle cx="75.1" cy="184.2" r="5" fill="#5FA04E"/><circle cx="75.1" cy="184.2" r="5" fill="none" stroke="#5FA04E"><animate attributeName="r" values="5;14;5" dur="6.0s" begin="4.75s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="1;0;0" dur="6.0s" begin="4.75s" repeatCount="indefinite"/></circle>
+<text x="84.1" y="188.2" class="bl" fill="#5FA04E">Node.js</text></g><g opacity=".45"><animate attributeName="opacity" values=".45;.45;1;.45" keyTimes="0;0.889;0.909;1" dur="6.0s" repeatCount="indefinite"/>
+<circle cx="158.5" cy="177.5" r="5" fill="#4479A1"/><circle cx="158.5" cy="177.5" r="5" fill="none" stroke="#4479A1"><animate attributeName="r" values="5;14;5" dur="6.0s" begin="5.33s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="1;0;0" dur="6.0s" begin="5.33s" repeatCount="indefinite"/></circle>
+<text x="167.5" y="181.5" class="bl" fill="#4479A1">MySQL</text></g><g opacity=".45"><animate attributeName="opacity" values=".45;.45;1;.45" keyTimes="0;0.986;0.990;1" dur="6.0s" repeatCount="indefinite"/>
+<circle cx="179.0" cy="89.5" r="5" fill="#F0883E"/><circle cx="179.0" cy="89.5" r="5" fill="none" stroke="#F0883E"><animate attributeName="r" values="5;14;5" dur="6.0s" begin="5.92s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="1;0;0" dur="6.0s" begin="5.92s" repeatCount="indefinite"/></circle>
+<text x="188.0" y="93.5" class="bl" fill="#F0883E">AWS</text></g>
+<circle cx="190" cy="215" r="4" fill="#3FB950"/>
+<text x="190" y="383" text-anchor="middle" class="k">SKILL RADAR · scanning…</text>
+<line x1="380" y1="70" x2="380" y2="370" stroke="#30363D"/>
+<text x="400" y="70" class="k">NOW ▸</text>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.40s" dur=".5s" fill="freeze"/>
+<circle cx="408" cy="91" r="5" fill="#2F81F7"><animate attributeName="opacity" values="1;.25;1" dur="1.4s" repeatCount="indefinite"/></circle>
+<text x="422" y="96" class="lb" fill="#2F81F7">BUILDING</text><text x="862" y="96" text-anchor="end" class="st">in production</text>
+<text x="422" y="118" class="tx">🔨 GenAI agents &amp; RAG for RABT</text>
+<rect x="422" y="128" width="440" height="6" rx="3" fill="#21262D"/>
+<rect x="422" y="128" width="0" height="6" rx="3" fill="#2F81F7"><animate attributeName="width" from="0" to="343" begin="0.70s" dur="1.3s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/></rect></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.75s" dur=".5s" fill="freeze"/>
+<circle cx="408" cy="163" r="5" fill="#A371F7"><animate attributeName="opacity" values="1;.25;1" dur="1.7s" repeatCount="indefinite"/></circle>
+<text x="422" y="168" class="lb" fill="#A371F7">RECENTLY SHIPPED</text><text x="862" y="168" text-anchor="end" class="st">Nov 2026</text>
+<text x="422" y="190" class="tx">🚀 DataOps AI Assistant (open source)</text>
+<rect x="422" y="200" width="440" height="6" rx="3" fill="#21262D"/>
+<rect x="422" y="200" width="0" height="6" rx="3" fill="#A371F7"><animate attributeName="width" from="0" to="440" begin="1.05s" dur="1.3s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/></rect></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.10s" dur=".5s" fill="freeze"/>
+<circle cx="408" cy="235" r="5" fill="#F0883E"><animate attributeName="opacity" values="1;.25;1" dur="2.0s" repeatCount="indefinite"/></circle>
+<text x="422" y="240" class="lb" fill="#F0883E">EXPLORING</text><text x="862" y="240" text-anchor="end" class="st">hands-on</text>
+<text x="422" y="262" class="tx">🧪 LoRA fine-tuning · vLLM · AWS Bedrock</text>
+<rect x="422" y="272" width="440" height="6" rx="3" fill="#21262D"/>
+<rect x="422" y="272" width="0" height="6" rx="3" fill="#F0883E"><animate attributeName="width" from="0" to="242" begin="1.40s" dur="1.3s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/></rect></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.45s" dur=".5s" fill="freeze"/>
+<circle cx="408" cy="307" r="5" fill="#3FB950"><animate attributeName="opacity" values="1;.25;1" dur="2.3s" repeatCount="indefinite"/></circle>
+<text x="422" y="312" class="lb" fill="#3FB950">OPEN TO</text><text x="862" y="312" text-anchor="end" class="st">immediate joiner</text>
+<text x="422" y="334" class="tx">🤝 GenAI · LLM · AI Full Stack roles</text>
+<rect x="422" y="344" width="440" height="6" rx="3" fill="#21262D"/>
+<rect x="422" y="344" width="0" height="6" rx="3" fill="#3FB950"><animate attributeName="width" from="0" to="440" begin="1.75s" dur="1.3s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/></rect></g>
+</svg>
