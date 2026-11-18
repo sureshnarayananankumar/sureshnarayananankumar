@@ -21,7 +21,6 @@
   <a href="https://sureshnarayananankumar.github.io/suresh-portfolio/Suresh_Kumar_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-2EA44F?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=sureshnarayananankumar&label=Profile%20views&color=0A66C2&style=flat-square" alt="Profile views"/>
 <img src="https://img.shields.io/badge/Status-Immediate%20joiner-2EA44F?style=flat-square" alt="Status"/>
 <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-6E40C9?style=flat-square" alt="Location"/>
 
@@ -357,23 +356,28 @@ mindmap
 <p align="center">
   <a href="https://github.com/sureshnarayananankumar/sureshnarayananankumar/issues/new?title=%F0%9F%91%8B+Guestbook%3A+Hello+from+...&body=Name%3A%0AWhere+I%27m+from%3A%0AA+note+for+Suresh%3A%0A"><img src="https://img.shields.io/badge/✍️_Sign_the_guestbook-2EA44F?style=for-the-badge" alt="Sign the guestbook"/></a>
   <a href="https://github.com/sureshnarayananankumar/sureshnarayananankumar/issues/new?title=%F0%9F%92%A1+Ask+me+anything%3A+...&body=My+question%3A%0A"><img src="https://img.shields.io/badge/💡_Ask_me_anything-6E40C9?style=for-the-badge" alt="Ask me anything"/></a>
-  <a href="https://github.com/sureshnarayananankumar/sureshnarayananankumar/issues"><img src="https://img.shields.io/github/issues/sureshnarayananankumar/sureshnarayananankumar?style=for-the-badge&label=messages&color=0A66C2" alt="Messages"/></a>
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
-## 📊 GitHub activity
+## 🛰️ Mission control
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sureshnarayananankumar&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshnarayananankumar&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sureshnarayananankumar&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sureshnarayananankumar&hide_border=true&theme=tokyo-night&area=true" width="100%" alt="Contribution graph"/>
-</p>
+<p align="center"><a href="https://sureshnarayananankumar.github.io/suresh-portfolio/" title="Open my live portfolio"><img src="assets/mission.svg" width="100%" alt="Animated mission control: a radar scanning my skills, and what I'm building, shipping, exploring and open to right now"/></a></p>
+
+<details>
+<summary>📡 <b>Decode the radar</b> · click to see what each blip means</summary>
+<br/>
+
+| Blip | Signal |
+|---|---|
+| 🟣 **LangGraph · RAG** | Agentic workflows and semantic search in production on RABT |
+| 🔴 **Angular** | Angular 22 SSR + Signals, migrated in 1 week |
+| 🔵 **React** | Front ends for HR ATS, AssessHub and DataOps AI |
+| 🟢 **Spring Boot · Node.js** | Microservices, REST and GraphQL APIs |
+| 🔷 **MySQL** | Schema design and indexing for 3× faster dashboards |
+| 🟠 **AWS** | Deployment and Bedrock for LLM workloads |
+
+</details>
 
 ## 🏅 Certifications
 
