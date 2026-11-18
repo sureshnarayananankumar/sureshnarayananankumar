@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6E40C9&height=180&section=header&text=Suresh%20Kumar%20N&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Generative%20AI%20%26%20Full%20Stack%20Software%20Engineer&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6E40C9&height=170&section=header&text=Suresh%20Kumar%20N&fontSize=42&fontColor=ffffff&fontAlignY=38" width="100%" alt="Header"/>
 
 <a href="https://sureshnarayananankumar.github.io/suresh-portfolio/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=640&lines=I+turn+LLMs+into+production+systems+%F0%9F%9A%80;LangGraph+agents+%C2%B7+RAG+%C2%B7+LLM+Evaluation;Python+%C2%B7+Node.js+%C2%B7+NestJS+%C2%B7+React+%C2%B7+Angular;Open+to+GenAI+%26+AI+Full+Stack+roles" alt="Typing intro"/>
