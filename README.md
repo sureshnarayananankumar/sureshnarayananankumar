@@ -23,6 +23,12 @@
 
 ## 👨‍💻 About me
 
+<p align="center"><img src="assets/terminal.svg" width="100%" alt="Animated terminal: whoami, focus, stack, impact and roles"/></p>
+
+<details>
+<summary>🐍 <b>Prefer code?</b> Click to view me as a Python class</summary>
+<br/>
+
 ```python
 class SureshKumarN:
     role       = "Generative AI & Full Stack Software Engineer"
@@ -35,18 +41,30 @@ class SureshKumarN:
     def open_to(self):
         return "GenAI · LLM · AI Full Stack roles | Chennai, Bangalore, Hyderabad, Pune or remote"
 ```
+</details>
 
 > 💬 **Try it live:** my [portfolio](https://sureshnarayananankumar.github.io/suresh-portfolio/) has an in-browser **AI copilot** you can interview, and a **JD fit analyser**. Paste a job description and get a match score.
 
+## ⚙️ What I build
+
+<p align="center"><img src="assets/agent-flow.svg" width="100%" alt="Animated LangGraph certificate-validation agent: upload, router, hybrid retriever, reranker, LLM validator, guardrail, RAGAS judge, auto-approve"/></p>
+
+<details>
+<summary>🔍 <b>How does this agent work?</b> Click for the step-by-step</summary>
+<br/>
+
+1. **Router** classifies the request and sends it to the right sub-graph
+2. **Hybrid retriever** combines vector and keyword search over 20K+ records, then a **reranker** keeps the top 3
+3. **LLM validator** checks the certificate using tool calls
+4. **Guardrail** blocks unfaithful answers; **RAGAS + LLM-as-judge** scores every run, traced in LangSmith/Langfuse
+5. High confidence → **auto-approve**; low confidence → **human review**
+
+Result: **−40% manual review effort** on the RABT platform.
+</details>
+
 ## 📈 Impact at a glance
 
-| | Result | Project |
-|:-:|---|:-:|
-| 🤖 | **−40%** manual review effort with LangGraph agentic workflows | RABT |
-| 🔎 | **−50%** search time with RAG semantic search over 20K+ records | RABT |
-| 📄 | **−67%** contract review time (30 min → 10 min) with LLM review | JSRS |
-| ⚡ | **Lighthouse 65 → 90+** after a Next.js → Angular 22 SSR migration | RABT |
-| 🚀 | **p95 < 300 ms** APIs, 3× faster dashboards, −35% latency with Redis | RABT · JSRS |
+<p align="center"><img src="assets/impact.svg" width="100%" alt="Animated impact bars: −67% contract review, −50% search time, −40% manual review, −35% API latency, Lighthouse 65 to 90+, 3x faster dashboards"/></p>
 
 ## 🛠️ Tech stack
 
@@ -147,6 +165,26 @@ flowchart LR
 | **NSS** | Full stack subsidy platform with bilingual English/Arabic (RTL) UI and JWT/RBAC security |
 
 </details>
+
+## 🧭 Career journey
+
+```mermaid
+flowchart LR
+    A["🎓 B.Sc. IT<br/>Yadava College<br/>2019–2022"] --> B["💻 Full Stack Engineer<br/>NoviTech R&D<br/>2022–2023"]
+    B --> C["🌱 Intern<br/>Business Gateways<br/>Jun 2023"]
+    C --> D["🚀 Software Engineer<br/>GenAI & Full Stack<br/>Dec 2023 – now"]
+    D --> E["🤖 Leading GenAI features<br/>RABT agents & RAG<br/>2026"]
+    style D fill:#0A66C2,color:#fff,stroke:#0A66C2
+    style E fill:#6E40C9,color:#fff,stroke:#6E40C9
+```
+
+## 🙋 Recruiter quick answers
+
+<details><summary><b>Are you available to join?</b></summary><br/>Yes, I'm an <b>immediate joiner</b>.</details>
+<details><summary><b>Where can you work?</b></summary><br/>Chennai, Bangalore, Hyderabad, Pune or remote. Onsite, hybrid or remote all work.</details>
+<details><summary><b>What roles fit you best?</b></summary><br/>GenAI / LLM Engineer, AI Full Stack Engineer, and applied AI on regulated data (government, bilingual EN/AR).</details>
+<details><summary><b>How do you evaluate LLM output?</b></summary><br/>RAGAS metrics, LLM-as-judge scoring, hallucination guardrails and tracing with LangSmith and Langfuse, plus offline test sets for retrieval hit rate and groundedness.</details>
+<details><summary><b>Can I see a live demo?</b></summary><br/>Yes: <a href="https://sureshnarayananankumar.github.io/suresh-portfolio/">open my portfolio</a> and ask the AI copilot anything, or paste your JD into the fit analyser.</details>
 
 ## 📊 GitHub activity
 
