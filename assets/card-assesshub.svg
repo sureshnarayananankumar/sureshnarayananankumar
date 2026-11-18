@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="230" viewBox="0 0 420 230" role="img" aria-label="AssessHub project card">
+<style>text{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif} .t{fill:#E6EDF3;font-size:18px;font-weight:800} .g{font-size:11px;font-weight:700;letter-spacing:.06em} .d{fill:#8B949E;font-size:12.5px} .ch{font-size:10.5px;font-weight:700} .v{fill:#E6EDF3;font-size:12px;font-weight:700}</style>
+<rect x="2" y="2" width="416" height="226" rx="14" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
+<rect x="2" y="2" width="416" height="226" rx="14" fill="none" stroke="#F0883E" stroke-width="2.5" stroke-dasharray="120 1164" stroke-linecap="round"><animate attributeName="stroke-dashoffset" from="1284" to="0" dur="5s" repeatCount="indefinite"/></rect>
+<text x="22" y="36" class="g" fill="#F0883E">FULL STACK · EDTECH</text>
+<text x="22" y="62" class="t">AssessHub</text>
+<text x="22" y="86" class="d">Timed assessments with auto-grading, a question</text><text x="22" y="104" class="d">bank, autosave and tab-focus monitoring.</text><text x="22" y="122" class="d">55 JUnit + 19 Vitest tests.</text><rect x="22" y="168" width="64.19999999999999" height="22" rx="11" fill="#F0883E22" stroke="#F0883E"/><text x="54.099999999999994" y="183" text-anchor="middle" class="ch" fill="#F0883E">Java 21</text><rect x="92.19999999999999" y="168" width="90.6" height="22" rx="11" fill="#F0883E22" stroke="#F0883E"/><text x="137.5" y="183" text-anchor="middle" class="ch" fill="#F0883E">Spring Boot</text><rect x="188.79999999999998" y="168" width="51.0" height="22" rx="11" fill="#F0883E22" stroke="#F0883E"/><text x="214.29999999999998" y="183" text-anchor="middle" class="ch" fill="#F0883E">React</text><rect x="245.79999999999998" y="168" width="51.0" height="22" rx="11" fill="#F0883E22" stroke="#F0883E"/><text x="271.29999999999995" y="183" text-anchor="middle" class="ch" fill="#F0883E">MySQL</text>
+<text x="22" y="212" class="v">View repo →<animate attributeName="fill" values="#E6EDF3;#F0883E;#E6EDF3" dur="2s" repeatCount="indefinite"/></text>
+<g transform="translate(372 48)"><circle r="18" fill="none" stroke="#21262D" stroke-width="5"/>
+<circle r="18" fill="none" stroke="#F0883E" stroke-width="5" stroke-linecap="round" transform="rotate(-90)" stroke-dasharray="113.1" stroke-dashoffset="0"><animate attributeName="stroke-dashoffset" from="0" to="113.1" dur="6s" repeatCount="indefinite"/></circle>
+<text y="4" text-anchor="middle" style="fill:#F0883E;font-size:10px;font-weight:800">⏱</text></g>
+</svg>
