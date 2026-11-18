@@ -160,61 +160,6 @@ Result: **−40% manual review effort** on the RABT platform.
 <a name="projects"></a>
 ## 🚀 Featured projects
 
-### 🌐 NEXORA: intelligent workflow & collaboration ecosystem
-
-<p align="center">
-  <a href="https://github.com/sureshnarayananankumar/nexora"><img src="https://img.shields.io/badge/Source-nexora-7C5CFF?style=for-the-badge&logo=github&logoColor=white" alt="NEXORA source"/></a>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</p>
-
-A multi-tenant work platform with Kanban boards, a **visual workflow builder**, and **explainable project intelligence**: health scores, delay forecasts, priority recommendations and workload balancing. It is a microservice monorepo: a Spring Boot API, React user app, Angular admin console, and Node.js Socket.IO gateway fed by Redis Streams, all behind Nginx in Docker.
-
-<p align="center">
-  <a href="https://github.com/sureshnarayananankumar/nexora"><img src="https://raw.githubusercontent.com/sureshnarayananankumar/nexora/main/docs/screenshots/dashboard.jpg" width="90%" alt="NEXORA dashboard"/></a>
-</p>
-
-<table>
-  <tr>
-    <td width="50%" align="center"><img src="https://raw.githubusercontent.com/sureshnarayananankumar/nexora/main/docs/screenshots/board.jpg" alt="Kanban board"/><br/><sub><b>Live Kanban board</b></sub></td>
-    <td width="50%" align="center"><img src="https://raw.githubusercontent.com/sureshnarayananankumar/nexora/main/docs/screenshots/builder.jpg" alt="Workflow builder"/><br/><sub><b>Visual workflow builder</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/sureshnarayananankumar/nexora/main/docs/screenshots/insights.jpg" alt="Project insights"/><br/><sub><b>Explainable health score & forecast</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/sureshnarayananankumar/nexora/main/docs/screenshots/analytics.jpg" alt="Analytics"/><br/><sub><b>Customisable analytics</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/sureshnarayananankumar/nexora/main/docs/screenshots/admin-dashboard.jpg" alt="Admin console"/><br/><sub><b>Angular admin console</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/sureshnarayananankumar/nexora/main/docs/screenshots/admin-api.jpg" alt="API monitoring"/><br/><sub><b>API & realtime monitoring</b></sub></td>
-  </tr>
-</table>
-
-<details>
-<summary><b>📸 More screens</b> (landing, task drawer, automation, team, roles, light theme)</summary>
-<br/>
-<table>
-  <tr>
-    <td width="50%" align="center"><img src="https://raw.githubusercontent.com/sureshnarayananankumar/nexora/main/docs/screenshots/landing.jpg" alt="Landing page"/><br/><sub>Landing page</sub></td>
-    <td width="50%" align="center"><img src="https://raw.githubusercontent.com/sureshnarayananankumar/nexora/main/docs/screenshots/task.jpg" alt="Task drawer"/><br/><sub>Task drawer</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/sureshnarayananankumar/nexora/main/docs/screenshots/workflows.jpg" alt="Automation studio"/><br/><sub>Automation studio</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/sureshnarayananankumar/nexora/main/docs/screenshots/team.jpg" alt="Team workload"/><br/><sub>Team workload</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/sureshnarayananankumar/nexora/main/docs/screenshots/admin-roles.jpg" alt="Roles and permissions"/><br/><sub>Roles & permissions</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/sureshnarayananankumar/nexora/main/docs/screenshots/board-light.jpg" alt="Light theme"/><br/><sub>Light theme</sub></td>
-  </tr>
-</table>
-</details>
-
-<sub>Screens captured from the built apps with sample data.</sub>
-
-
 <sub>👆 Every card is clickable</sub>
 
 <table>
