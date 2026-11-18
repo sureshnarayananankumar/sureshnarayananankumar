@@ -29,6 +29,15 @@
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
+<h3 align="center">🧭 Choose your path</h3>
+<p align="center">
+  <a href="#recruiter" title="Availability, location, roles and a live demo"><img src="assets/path-hire.svg" width="32%" alt="I'm hiring"/></a>
+  <a href="#build" title="Agents, architecture and the full stack"><img src="assets/path-eng.svg" width="32%" alt="I'm an engineer"/></a>
+  <a href="#play" title="Quiz, git log, easter egg and guestbook"><img src="assets/path-fun.svg" width="32%" alt="Just exploring"/></a>
+</p>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
+
 <a name="about"></a>
 ## 👨‍💻 About me
 
@@ -92,6 +101,27 @@ Result: **−40% manual review effort** on the RABT platform.
 | **SQL · MySQL** | Schema design and indexing that made JSRS dashboards 3× faster; Prisma + MySQL on HR ATS |
 
 </details>
+
+> [!TIP]
+> 🖱️ **Hover over any icon** to see where I used it.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular" width="52" alt="Angular" title="Angular · led a Next.js → Angular 22 SSR migration in 1 week, Lighthouse 65 → 90+"/>
+  <img src="https://skillicons.dev/icons?i=react" width="52" alt="React" title="React · HR ATS, AssessHub and the DataOps AI dashboard"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="52" alt="TypeScript" title="TypeScript · my default for front ends and NestJS APIs"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="52" alt="Node.js" title="Node.js · REST + GraphQL APIs with p95 latency under 300 ms"/>
+  <img src="https://skillicons.dev/icons?i=nestjs" width="52" alt="NestJS" title="NestJS · HR ATS backend with 6 roles and 70 permissions"/>
+  <img src="https://skillicons.dev/icons?i=java" width="52" alt="Java 21" title="Java 21 · AssessHub services with 55 JUnit/Mockito tests"/>
+  <img src="https://skillicons.dev/icons?i=spring" width="52" alt="Spring Boot" title="Spring Boot · microservices on Government of Oman platforms"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="52" alt="MySQL" title="MySQL · indexing that made JSRS dashboards 3× faster"/>
+  <img src="https://skillicons.dev/icons?i=python" width="52" alt="Python" title="Python · LangGraph agents, RAG and evaluation pipelines"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" width="52" alt="FastAPI" title="FastAPI · backend of the DataOps AI Assistant"/>
+  <img src="https://skillicons.dev/icons?i=redis" width="52" alt="Redis" title="Redis · caching that cut API latency by 35%"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="52" alt="MongoDB" title="MongoDB · Atlas Vector Search over 20K+ records"/>
+  <img src="https://skillicons.dev/icons?i=graphql" width="52" alt="GraphQL" title="GraphQL · APIs for RABT and JSRS"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="52" alt="Docker" title="Docker · containerised every service I ship"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="52" alt="AWS" title="AWS · deployment and Bedrock for LLMs"/>
+</p>
 
 ### 🪐 Tech universe
 
@@ -204,6 +234,7 @@ flowchart LR
     style E fill:#6E40C9,color:#fff,stroke:#6E40C9
 ```
 
+<a name="recruiter"></a>
 ## 🙋 Recruiter quick answers
 
 <details><summary><b>Are you available to join?</b></summary><br/>Yes, I'm an <b>immediate joiner</b>.</details>
@@ -211,6 +242,123 @@ flowchart LR
 <details><summary><b>What roles fit you best?</b></summary><br/>GenAI / LLM Engineer, AI Full Stack Engineer, and applied AI on regulated data (government, bilingual EN/AR).</details>
 <details><summary><b>How do you evaluate LLM output?</b></summary><br/>RAGAS metrics, LLM-as-judge scoring, hallucination guardrails and tracing with LangSmith and Langfuse, plus offline test sets for retrieval hit rate and groundedness.</details>
 <details><summary><b>Can I see a live demo?</b></summary><br/>Yes: <a href="https://sureshnarayananankumar.github.io/suresh-portfolio/">open my portfolio</a> and ask the AI copilot anything, or paste your JD into the fit analyser.</details>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
+
+<a name="play"></a>
+## 🎮 Play & explore
+
+### 🧠 Mini-game: how well do you know my work?
+
+<sub>Pick an answer in your head, then click to reveal it.</sub>
+
+<details>
+<summary><b>Q1.</b> What made the JSRS dashboards 3× faster? &nbsp; <code>A) a CDN</code> <code>B) MySQL indexing</code> <code>C) a bigger server</code></summary>
+<br/>✅ <b>B) MySQL indexing.</b> Load time went from 6 s to 2 s, and Redis caching cut cached API latency by another 35%.
+</details>
+
+<details>
+<summary><b>Q2.</b> How long did the Next.js → Angular 22 SSR migration take? &nbsp; <code>A) 1 week</code> <code>B) 1 month</code> <code>C) 1 quarter</code></summary>
+<br/>✅ <b>A) 1 week.</b> 12 routes, 47 components and 59 Vitest + Playwright tests, with Lighthouse up from 65 to 90+.
+</details>
+
+<details>
+<summary><b>Q3.</b> My DataOps agent finds its answer isn't grounded. What does it do? &nbsp; <code>A) answers anyway</code> <code>B) retries, then says "I don't know"</code> <code>C) crashes</code></summary>
+<br/>✅ <b>B).</b> It retries once with an improved query and more context. If the sources still don't support an answer, it says "I don't know" instead of guessing.
+</details>
+
+<details>
+<summary><b>Q4.</b> How many suppliers use the platforms I build? &nbsp; <code>A) 1,500</code> <code>B) 7,000</code> <code>C) 18,900+</code></summary>
+<br/>✅ <b>C) 18,900+ suppliers in 117 countries</b>, across Government of Oman platforms.<br/><br/>🏆 <b>4/4?</b> You'd make a great teammate. <a href="mailto:sureshnarayanan122@gmail.com">Let's talk.</a>
+</details>
+
+### 🌿 My career as a git log
+
+<sub>Drag to pan, scroll to zoom.</sub>
+
+```mermaid
+gitGraph
+  commit id: "B.Sc. IT 2019"
+  commit id: "Graduated 83%"
+  branch novitech
+  checkout novitech
+  commit id: "Full Stack Engineer 2022"
+  commit id: "Angular + Node + MySQL"
+  checkout main
+  merge novitech id: "AI Full Stack Masterclass"
+  branch business-gateways
+  checkout business-gateways
+  commit id: "Intern Jun 2023"
+  commit id: "Software Engineer Dec 2023"
+  branch genai
+  checkout genai
+  commit id: "LLM contract review JSRS"
+  commit id: "LangGraph agents RABT"
+  commit id: "RAGAS + guardrails"
+  checkout business-gateways
+  commit id: "Angular 22 SSR migration"
+  merge genai id: "Leading GenAI features 2026" type: HIGHLIGHT
+```
+
+### 🗺️ Skill map
+
+<details>
+<summary>🧩 <b>Open the interactive mind map</b></summary>
+<br/>
+
+```mermaid
+mindmap
+  root((Suresh))
+    GenAI
+      LangGraph agents
+      RAG pipelines
+      RAGAS and LLM-as-judge
+      Guardrails and tracing
+    Frontend
+      Angular 22
+      React
+      TypeScript
+    Backend
+      Node.js and NestJS
+      Spring Boot
+      Java 21
+      GraphQL
+    Data
+      MySQL
+      MongoDB
+      Redis
+    Cloud and Ops
+      Docker
+      AWS
+      Jenkins
+```
+</details>
+
+### 🥚 Easter egg
+
+<details>
+<summary>🚫 <b>Don't click this</b></summary>
+<br/>
+<details>
+<summary>😅 You clicked it. Okay, but definitely <b>don't</b> click this one</summary>
+<br/>
+<details>
+<summary>🤫 Last one, I promise…</summary>
+<br/>
+
+> 🎉 **You found the secret!** Fun fact: my portfolio's AI copilot runs **entirely in your browser**. No server, no API key, no data leaves your machine. [Go try to stump it →](https://sureshnarayananankumar.github.io/suresh-portfolio/)
+
+</details>
+</details>
+</details>
+
+### ✍️ Sign my guestbook
+
+<p align="center">
+  <a href="https://github.com/sureshnarayananankumar/sureshnarayananankumar/issues/new?title=%F0%9F%91%8B+Guestbook%3A+Hello+from+...&body=Name%3A%0AWhere+I%27m+from%3A%0AA+note+for+Suresh%3A%0A"><img src="https://img.shields.io/badge/✍️_Sign_the_guestbook-2EA44F?style=for-the-badge" alt="Sign the guestbook"/></a>
+  <a href="https://github.com/sureshnarayananankumar/sureshnarayananankumar/issues/new?title=%F0%9F%92%A1+Ask+me+anything%3A+...&body=My+question%3A%0A"><img src="https://img.shields.io/badge/💡_Ask_me_anything-6E40C9?style=for-the-badge" alt="Ask me anything"/></a>
+  <a href="https://github.com/sureshnarayananankumar/sureshnarayananankumar/issues"><img src="https://img.shields.io/github/issues/sureshnarayananankumar/sureshnarayananankumar?style=for-the-badge&label=messages&color=0A66C2" alt="Messages"/></a>
+</p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
