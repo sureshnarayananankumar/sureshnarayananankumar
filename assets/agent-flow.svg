@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-label="Animated LangGraph agent workflow">
+<style>text{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif} .t{fill:#E6EDF3;font-size:14px;font-weight:700} .s{fill:#8B949E;font-size:11.5px} .h{fill:#E6EDF3;font-size:16px;font-weight:700} .l{fill:#8B949E;font-size:12px}</style>
+<defs><filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="900" height="330" rx="14" fill="#0D1117" stroke="#30363D"/>
+<text x="28" y="38" class="h">⚙️ Live replay · certificate-validation agent (LangGraph)</text>
+<circle cx="750" cy="33" r="5" fill="#3FB950"><animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/></circle><text x="762" y="38" class="l">running in production</text>
+<path d="M125.0,110 L345.0,110 L565.0,110 L785.0,110 C935.0,110 935.0,250 785.0,250 L565.0,250 L345.0,250 L125.0,250" fill="none" stroke="#30363D" stroke-width="2.5" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" from="24" to="0" dur="1s" repeatCount="indefinite"/></path>
+<g><rect x="40" y="81.0" width="170" height="58" rx="12" fill="#161B22" stroke="#30363D" stroke-width="2">
+<animate attributeName="stroke" values="#30363D;#30363D;#2F81F7;#2F81F7;#30363D;#30363D" keyTimes="0;0.000;0.000;0.060;0.140;1" dur="9.0s" repeatCount="indefinite"/>
+<animate attributeName="fill" values="#161B22;#161B22;#2F81F733;#2F81F733;#161B22;#161B22" keyTimes="0;0.000;0.000;0.060;0.140;1" dur="9.0s" repeatCount="indefinite"/></rect>
+<text x="125.0" y="107" text-anchor="middle" class="t">Supplier upload</text><text x="125.0" y="126" text-anchor="middle" class="s">certificate.pdf</text></g><g><rect x="260" y="81.0" width="170" height="58" rx="12" fill="#161B22" stroke="#30363D" stroke-width="2">
+<animate attributeName="stroke" values="#30363D;#30363D;#2F81F7;#2F81F7;#30363D;#30363D" keyTimes="0;0.110;0.111;0.171;0.251;1" dur="9.0s" repeatCount="indefinite"/>
+<animate attributeName="fill" values="#161B22;#161B22;#2F81F733;#2F81F733;#161B22;#161B22" keyTimes="0;0.110;0.111;0.171;0.251;1" dur="9.0s" repeatCount="indefinite"/></rect>
+<text x="345.0" y="107" text-anchor="middle" class="t">Router</text><text x="345.0" y="126" text-anchor="middle" class="s">classify intent</text></g><g><rect x="480" y="81.0" width="170" height="58" rx="12" fill="#161B22" stroke="#30363D" stroke-width="2">
+<animate attributeName="stroke" values="#30363D;#30363D;#2F81F7;#2F81F7;#30363D;#30363D" keyTimes="0;0.221;0.222;0.282;0.362;1" dur="9.0s" repeatCount="indefinite"/>
+<animate attributeName="fill" values="#161B22;#161B22;#2F81F733;#2F81F733;#161B22;#161B22" keyTimes="0;0.221;0.222;0.282;0.362;1" dur="9.0s" repeatCount="indefinite"/></rect>
+<text x="565.0" y="107" text-anchor="middle" class="t">Hybrid retriever</text><text x="565.0" y="126" text-anchor="middle" class="s">vector + keyword</text></g><g><rect x="700" y="81.0" width="170" height="58" rx="12" fill="#161B22" stroke="#30363D" stroke-width="2">
+<animate attributeName="stroke" values="#30363D;#30363D;#2F81F7;#2F81F7;#30363D;#30363D" keyTimes="0;0.332;0.333;0.393;0.473;1" dur="9.0s" repeatCount="indefinite"/>
+<animate attributeName="fill" values="#161B22;#161B22;#2F81F733;#2F81F733;#161B22;#161B22" keyTimes="0;0.332;0.333;0.393;0.473;1" dur="9.0s" repeatCount="indefinite"/></rect>
+<text x="785.0" y="107" text-anchor="middle" class="t">Reranker</text><text x="785.0" y="126" text-anchor="middle" class="s">top-k → top-3</text></g><g><rect x="700" y="221.0" width="170" height="58" rx="12" fill="#161B22" stroke="#30363D" stroke-width="2">
+<animate attributeName="stroke" values="#30363D;#30363D;#A371F7;#A371F7;#30363D;#30363D" keyTimes="0;0.499;0.500;0.560;0.640;1" dur="9.0s" repeatCount="indefinite"/>
+<animate attributeName="fill" values="#161B22;#161B22;#A371F733;#A371F733;#161B22;#161B22" keyTimes="0;0.499;0.500;0.560;0.640;1" dur="9.0s" repeatCount="indefinite"/></rect>
+<text x="785.0" y="247" text-anchor="middle" class="t">LLM validator</text><text x="785.0" y="266" text-anchor="middle" class="s">tool calling</text></g><g><rect x="480" y="221.0" width="170" height="58" rx="12" fill="#161B22" stroke="#30363D" stroke-width="2">
+<animate attributeName="stroke" values="#30363D;#30363D;#A371F7;#A371F7;#30363D;#30363D" keyTimes="0;0.610;0.611;0.671;0.751;1" dur="9.0s" repeatCount="indefinite"/>
+<animate attributeName="fill" values="#161B22;#161B22;#A371F733;#A371F733;#161B22;#161B22" keyTimes="0;0.610;0.611;0.671;0.751;1" dur="9.0s" repeatCount="indefinite"/></rect>
+<text x="565.0" y="247" text-anchor="middle" class="t">Guardrail</text><text x="565.0" y="266" text-anchor="middle" class="s">faithfulness</text></g><g><rect x="260" y="221.0" width="170" height="58" rx="12" fill="#161B22" stroke="#30363D" stroke-width="2">
+<animate attributeName="stroke" values="#30363D;#30363D;#A371F7;#A371F7;#30363D;#30363D" keyTimes="0;0.721;0.722;0.782;0.862;1" dur="9.0s" repeatCount="indefinite"/>
+<animate attributeName="fill" values="#161B22;#161B22;#A371F733;#A371F733;#161B22;#161B22" keyTimes="0;0.721;0.722;0.782;0.862;1" dur="9.0s" repeatCount="indefinite"/></rect>
+<text x="345.0" y="247" text-anchor="middle" class="t">RAGAS + judge</text><text x="345.0" y="266" text-anchor="middle" class="s">score &amp; trace</text></g><g><rect x="40" y="221.0" width="170" height="58" rx="12" fill="#161B22" stroke="#30363D" stroke-width="2">
+<animate attributeName="stroke" values="#30363D;#30363D;#2F81F7;#2F81F7;#30363D;#30363D" keyTimes="0;0.832;0.833;0.893;0.973;1" dur="9.0s" repeatCount="indefinite"/>
+<animate attributeName="fill" values="#161B22;#161B22;#2F81F733;#2F81F733;#161B22;#161B22" keyTimes="0;0.832;0.833;0.893;0.973;1" dur="9.0s" repeatCount="indefinite"/></rect>
+<text x="125.0" y="247" text-anchor="middle" class="t">Auto-approve</text><text x="125.0" y="266" text-anchor="middle" class="s">or human review</text></g>
+<circle r="7" fill="#58A6FF" filter="url(#glow)"><animateMotion dur="9.0s" repeatCount="indefinite" keyPoints="0;1;1" keyTimes="0;0.833;1" calcMode="linear" path="M125.0,110 L345.0,110 L565.0,110 L785.0,110 C935.0,110 935.0,250 785.0,250 L565.0,250 L345.0,250 L125.0,250"/>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.833;0.867;1" dur="9.0s" repeatCount="indefinite"/></circle>
+<text x="28" y="314" class="l"><tspan fill="#2F81F7">■</tspan> platform  <tspan fill="#A371F7" dx="10">■</tspan> AI trust layer    · −40% manual review effort</text>
+</svg>
