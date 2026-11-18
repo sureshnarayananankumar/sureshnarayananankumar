@@ -126,8 +126,8 @@ Result: **−40% manual review effort** on the RABT platform.
 
 <p align="center"><img src="assets/orbit.svg" width="100%" alt="Animated orbit of GenAI, backend and frontend skills"/></p>
 
-<details>
-<summary>🧰 <b>See the full toolbox</b></summary>
+<details open>
+<summary>🧰 <b>Full toolbox</b></summary>
 <br/>
 
 <p align="center">
